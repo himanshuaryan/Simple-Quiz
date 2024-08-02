@@ -10,6 +10,7 @@
       <ol>Table <i>(user input)</i></ol>
       <ol>Square <i>(user input)</i></ol>
       <ol>Cube <i>(user input)</i></ol>
+      <ol>User-Choice simple calculator</ol>
     </li>
   </body>
 </html>
