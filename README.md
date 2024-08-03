@@ -11,6 +11,7 @@
       <ol>Cube <i>(user input)</i></ol>
       <ol>User-Choice simple calculator</ol>
       <ol>Highest Common Factor</ol>
+      <ol>Least Common Multiple</ol>
     </li>
   </body>
 </html>
