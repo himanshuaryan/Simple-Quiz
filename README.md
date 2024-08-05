@@ -5,13 +5,13 @@
   </head>
   <body>
     <div>Author : <b>Himanshu Aryan</b></div>
-    <li>
-      <ol>Table <i>(user input)</i></ol>
-      <ol>Square <i>(user input)</i></ol>
-      <ol>Cube <i>(user input)</i></ol>
-      <ol>User-Choice simple calculator</ol>
-      <ol>Highest Common Factor</ol>
-      <ol>Least Common Multiple</ol>
-    </li>
+    <ol>
+      <li>Table <i>(user input)</i></li>
+      <li>Square <i>(user input)</i></li>
+      <li>Cube <i>(user input)</i></li>
+      <li>User-Choice simple calculator</li>
+      <li>Highest Common Factor</li>
+      <li>Least Common Multiple</li>
+    </ol>
   </body>
 </html>
