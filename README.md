@@ -12,6 +12,7 @@
       <li><a href='https://github.com/himanshuaryan/Simple-Quiz/blob/main/HCF.py'>Highest Common Factor</a></li>
       <li><a href='https://github.com/himanshuaryan/Simple-Quiz/blob/main/LCM.py'>Least Common Multiple</a></li>
       <li><a href='https://github.com/himanshuaryan/Simple-Quiz/blob/main/even_odd.py'>Sum of first n even and odd natural numbers. </a></li>
-    </ol>
+    </ol><hr>
+    <div>Author : <a href='https://github.com/himanshuaryan'><b>Himanshu Aryan</b></a></div>
   </body>
 </html>
