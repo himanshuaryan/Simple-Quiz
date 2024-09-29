@@ -3,7 +3,6 @@
   <head>
   </head>
   <body>
-    <div>Author : <b>Himanshu Aryan</b></div>
     <ol>
       <li><a href='https://github.com/himanshuaryan/Simple-Quiz/blob/main/Table.py'>Table</a><i>(user input)</i></li>
       <li><a href='https://github.com/himanshuaryan/Simple-Quiz/blob/main/Square.py'>Square </a><i>(user input)</i></li>
